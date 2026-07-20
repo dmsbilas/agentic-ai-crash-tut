@@ -1,0 +1,8 @@
+# Managed by GetAIBD — ignore generated agent state.
+# Authored config (AGENTS.md, rules/, skills/) is intentionally kept in git.
+MEMORY.md
+cache/
+index/
+*.db
+*.sqlite
+*.sqlite3
